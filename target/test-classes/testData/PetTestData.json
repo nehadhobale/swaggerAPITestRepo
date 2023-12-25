@@ -1,0 +1,18 @@
+{
+  "id": 32,
+  "category": {
+    "id": 32,
+    "name": "Dog Group"
+  },
+  "name": "Tuffy",
+  "photoUrls": [
+    "https://images.dog.ceo//breeds//labrador//n02099712_5008.jpg"
+  ],
+  "tags": [
+    {
+      "id": 32,
+      "name": "Dog Lovers"
+    }
+  ],
+  "status": "available"
+}

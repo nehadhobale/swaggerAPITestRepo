@@ -1,0 +1,6 @@
+2023-12-25 11:18:56 DEBUG suiteXmlPath: "C:\Users\nxz\AppData\Local\JetBrains\IdeaIC2021.3\temp-testng-customsuite.xml"
+2023-12-25 11:18:56 INFO [TestNG] Running:
+  C:\Users\nxz\AppData\Local\JetBrains\IdeaIC2021.3\temp-testng-customsuite.xml
+
+2023-12-25 11:18:56 DEBUG Evaluating path: $['id']
+2023-12-25 11:18:59 INFO Data is deleted
